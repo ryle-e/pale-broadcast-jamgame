@@ -224,8 +224,8 @@ MonoBehaviour:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    gain: 100
-    attenuation: 0.94
+    gain: 56
+    attenuation: 0.869
     forceGlobal: 1
     playOnInit: 1
     broadcasters: []
@@ -284,10 +284,10 @@ MonoBehaviour:
     - rid: 769389085101916236
       type: {class: ProceduralRadioTrack, ns: RyleRadio.Tracks, asm: ryle-e.RyleRadio.Core}
       data:
-        proceduralType: 0
+        proceduralType: 2
         duration: 0
         waveFrequency: 100
-        brownWalkPower: 0.5
+        brownWalkPower: 0.749
     - rid: 769389085101916238
       type: {class: StationRadioTrack, ns: RyleRadio.Tracks, asm: ryle-e.RyleRadio.Core}
       data:
@@ -405,7 +405,7 @@ MonoBehaviour:
           track:
             rid: 769389085101916260
         - id: 
-          gain: 0
+          gain: 100
           startAndEndRests: {x: 0, y: 0}
           trackType: Audio Clip
           track:
