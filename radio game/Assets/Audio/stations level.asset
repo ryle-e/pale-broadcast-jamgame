@@ -53,7 +53,7 @@ MonoBehaviour:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    gain: 20
+    gain: 0
     attenuation: 0
     forceGlobal: 1
     playOnInit: 1
@@ -143,7 +143,7 @@ MonoBehaviour:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    gain: 50
+    gain: 0
     attenuation: 0
     forceGlobal: 1
     playOnInit: 1
@@ -233,7 +233,7 @@ MonoBehaviour:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    gain: 50
+    gain: 0
     attenuation: 0
     forceGlobal: 1
     playOnInit: 1
@@ -323,7 +323,7 @@ MonoBehaviour:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    gain: 25
+    gain: 0
     attenuation: 0
     forceGlobal: 1
     playOnInit: 1
