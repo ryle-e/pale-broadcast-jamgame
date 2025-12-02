@@ -3,11 +3,8 @@
 
 
 Solution to the first puzzle is written below!
--
--
--
--
-.
+_
+_
 .
 .
 .
